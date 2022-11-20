@@ -1,5 +1,6 @@
 # Coopers Terminal System (CTS)
 A cosmos os created in C#.
+
 If there is any bugs please make an issue.
 
 # Some errors i know about
